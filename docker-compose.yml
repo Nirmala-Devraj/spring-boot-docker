@@ -1,4 +1,4 @@
-version: '3'
+version: '3'    ##testing
 
 services:
   jhooq-springboot-container:
